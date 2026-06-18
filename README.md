@@ -3,7 +3,7 @@
 ![](https://streak-stats.demolab.com/?user=ANURAGBATHAM2007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ANURAGBATHAM2007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <h1 align="center">
-  <img src="https://img.shields.io/badge/👋%20Hello!-I'm%20Kritika!-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👋%20Hello!-I'm%20ANURAG!-brightgreen?style=for-the-badge" />
 </h1>
 
 <p align="center">
