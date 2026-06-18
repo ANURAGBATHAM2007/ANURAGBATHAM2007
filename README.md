@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KRITIKA-l&theme=github-light" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ANURAG-l&theme=github-light" alt="GitHub Streak" />
 </p>
 
 ### ✍️ Random Dev Quote
